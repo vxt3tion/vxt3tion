@@ -18,4 +18,4 @@
 
 ## Profile Views 👀
 
-<a href="https://hits.sh/github.com/vxtumation/vxtumation/"><img alt="Hits" src="https://hits.sh/github.com/vxtumation/vxtumation.svg?style=flat-square&label=Profile%20Views&color=ff1200&labelColor=000000"/></a>
+<a href="https://hits.sh/github.com/vxtumation/vxtumation/"><img alt="Hits" src="https://hits.sh/github.com/vxtumation/vxtumation.svg?label=Views&color=ff1100&labelColor=000000"/></a>
