@@ -8,13 +8,6 @@
   <img src="https://lanyard.cnrad.dev/api/786175409938497576">
 </a>
 
-## Stats 📊
-
-<a href="https://github.com/saranshsinhaa">
-  <img height="200px" src="https://github-readme-stats.vercel.app/api?username=vxtumation&count_private=true&show_icons=true&theme=tokyonight">
-</a>
-<br>
-<img height="180px" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=vxtumation&layout=compact&langs_count=10&theme=tokyonight"/>
 
 ## Profile Views 👀
 
